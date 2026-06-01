@@ -165,7 +165,7 @@ const jeswin = {
 | 💼 | **Full Stack Developer** | Promoted to Full Stack Developer role at SODISYS after demonstrating full-stack ownership across frontend, backend & mobile |
 | 📱 | **Cross-Platform Mobile Expert** | Shipped production React Native apps for both iOS & Android over 20+ months at SODISYS |
 | ⚡ | **Real-Time Systems** | Architected and shipped real-time Socket.io features powering live data communication in mobile applications |
-| 🎓 | **B.E. Computer Science** | Graduated with a degree in Computer Science Engineering from DMI Engineering College (2020–2024) |
+| 🎓 | **B.E. Computer Science** | Graduated with a degree in Computer Science Engineering from DMI Engineering College (2019–2023) |
 | 🌐 | **Production Deployments** | Projects live on Vercel & Render — actively serving users at [popup-tours.vercel.app](https://popup-tours.vercel.app) & [smartbill-system-2.onrender.com](https://smartbill-system-2.onrender.com) |
 
 </div>
