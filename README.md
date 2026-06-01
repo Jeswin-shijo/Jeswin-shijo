@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jeswin%20Shijo%20J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Building%20end-to-end%20web%20%26%20mobile%20experiences&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Jeswin%20Shijo%20J&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Full%20Stack%20Developer%20%7C%20Building%20end-to-end%20web%20%26%20mobile%20experiences&amp;descAlignY=62&amp;descSize=16" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Jeswin+shijo+J+%F0%9F%91%8B;Full+Stack+Developer+%7C+2%2B+Years+Experience;React.js+%2B+Node.js+%2B+TypeScript+%7C+Expert;Building+Scalable+Web+%26+Mobile+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi%2C+I%27m+Jeswin+Shijo+J+%F0%9F%91%8B;Full+Stack+Developer+%7C+2%2B+Years+Experience;React.js+%2B+Node.js+%2B+TypeScript+%7C+Expert;Building+Scalable+Web+%26+Mobile+Apps)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Jeswin-shijo&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/Jeswin-shijo)
 [![GitHub followers](https://img.shields.io/github/followers/Jeswin-shijo?style=flat-square&color=bf91f3&logo=github&logoColor=white)](https://github.com/Jeswin-shijo)
@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" alt="coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```javascript
 const jeswin = {
@@ -97,10 +97,10 @@ const jeswin = {
 <div align="center">
 
 <a href="https://github.com/Jeswin-shijo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeswin-shijo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeswin-shijo&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10"/>
 </a>
 <a href="https://github.com/Jeswin-shijo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeswin-shijo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeswin-shijo&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10"/>
 </a>
 
 </div>
@@ -232,4 +232,4 @@ const jeswin = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
