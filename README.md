@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Jeswin+%F0%9F%91%8B;Full+Stack+Developer+%7C+2%2B+Years+Experience;React.js+%2B+Node.js+%2B+TypeScript+%7C+Expert;Building+Scalable+Web+%26+Mobile+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Jeswin+shijo+J+%F0%9F%91%8B;Full+Stack+Developer+%7C+2%2B+Years+Experience;React.js+%2B+Node.js+%2B+TypeScript+%7C+Expert;Building+Scalable+Web+%26+Mobile+Apps)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Jeswin-shijo&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/Jeswin-shijo)
 [![GitHub followers](https://img.shields.io/github/followers/Jeswin-shijo?style=flat-square&color=bf91f3&logo=github&logoColor=white)](https://github.com/Jeswin-shijo)
