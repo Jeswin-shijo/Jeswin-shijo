@@ -178,7 +178,7 @@ const jeswin = {
 
 | 🎓 Degree | 🏫 Institution | 📅 Year | 📍 Location |
 |:----------|:--------------|:--------|:-----------|
-| B.E. Computer Science Engineering | DMI Engineering College | 2020 – 2024 | Kanyakumari District, Tamil Nadu |
+| B.E. Computer Science Engineering | DMI Engineering College | 2019 – 2023 | Kanyakumari District, Tamil Nadu |
 
 </div>
 
