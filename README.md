@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi%2C+I%27m+Jeswin+Shijo+J+%F0%9F%91%8B;Full+Stack+Developer+%7C+2%2B+Years+Experience;React.js+%2B+Node.js+%2B+TypeScript+%7C+Expert;Building+Scalable+Web+%26+Mobile+Apps)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Jeswin-shijo&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/Jeswin-shijo)
-[![GitHub followers](https://img.shields.io/github/followers/Jeswin-shijo?style=flat-square&color=bf91f3&logo=github&logoColor=white)](https://github.com/Jeswin-shijo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeswin-shijo-544a543a1)
 [![Email](https://img.shields.io/badge/Gmail-jeswindonoo7%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jeswindonoo7@gmail.com)
 
@@ -92,26 +91,11 @@ const jeswin = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/Jeswin-shijo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeswin-shijo&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10"/>
-</a>
-<a href="https://github.com/Jeswin-shijo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeswin-shijo&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10"/>
-</a>
-
-</div>
-
----
-
 ## 🔥 Streak Stats
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-git-main-denvercoder1.vercel.app/?user=Jeswin-shijo&theme=tokyonight&hide_border=true&background=0D1117&border_radius=10)](https://github.com/Jeswin-shijo)
+<img src="https://streak-stats.demolab.com?user=Jeswin-shijo&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -121,17 +105,7 @@ const jeswin = {
 
 <div align="center">
 
-[![Jeswin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeswin-shijo&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Jeswin-shijo)
-
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jeswin-shijo&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Jeswin-shijo)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeswin-shijo&theme=tokyo-night&hide_border=true" />
 
 </div>
 
