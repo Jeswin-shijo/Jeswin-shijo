@@ -14,9 +14,11 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" alt="coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td width="56%">
 
-```javascript
+```js
 const jeswin = {
   name        : "Jeswin Shijo J",
   location    : "Nagercoil, Tamil Nadu, India 🇮🇳",
@@ -25,10 +27,13 @@ const jeswin = {
   role        : "Full Stack Developer @ SODISYS",
 
   stack: {
-    frontend  : ["React.js", "React Native", "TypeScript", "Redux Toolkit", "Tailwind CSS"],
-    backend   : ["Node.js", "Express.js", "REST APIs", "Microservices"],
-    databases : ["MySQL", "MongoDB"],
-    tools     : ["Git", "Docker", "Postman", "Android Studio", "Xcode"],
+    frontend  : ["React.js", "React Native", "TypeScript",
+                 "Redux Toolkit", "Tailwind CSS"],
+    backend   : ["Node.js", "Express.js", "REST APIs",
+                 "Microservices"],
+    databases : ["MySQL", "MongoDB", "PostgreSQL"],
+    tools     : ["Git", "Docker", "Postman",
+                 "Android Studio", "Xcode"],
   },
 
   currentlyLearning: [
@@ -37,16 +42,23 @@ const jeswin = {
     "GraphQL & Advanced API Patterns",
   ],
 
-  funFact     : "I've shipped features across frontend, backend AND mobile — all in the same sprint 🚀",
+  funFact : "Shipped features across frontend, backend " +
+            "AND mobile — all in the same sprint 🚀",
 
-  motto       : () => "Ship fast. Refactor smart. Stay curious.",
+  motto   : () => "Ship fast. Refactor smart. Stay curious.",
 };
 ```
 
-<br clear="right"/>
+</td>
+<td width="44%">
+<img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" />
+</td>
+</tr>
+</table>
 
 ---
 
+<!-- ============================= TECH STACK ============================= -->
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -77,8 +89,9 @@ const jeswin = {
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Cloud & DevOps & Tools**
+**Cloud &amp; DevOps &amp; Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -91,118 +104,112 @@ const jeswin = {
 
 ---
 
-## 🔥 Streak Stats
+<!-- ============================= GITHUB STATS ============================= -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jeswin-shijo&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;hide_border=true&amp;theme=tokyonight" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeswin-shijo&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=tokyonight" alt="Top Languages" />
+</div>
+
+### 🔥 Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Jeswin-shijo&theme=tokyonight&hide_border=true" />
+![Streak](https://streak-stats.demolab.com?user=Jeswin-shijo&theme=tokyonight&hide_border=true)
+
+</div>
+
+### 📈 Activity Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeswin-shijo&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Jeswin-shijo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4)
 
 </div>
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeswin-shijo&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
+<!-- ============================= WORK EXPERIENCE ============================= -->
 ## 💼 Work Experience
 
-<details>
-<summary>🏢 <strong>SODISYS (S J S Business Solutions)</strong> — Full Stack Developer &nbsp;|&nbsp; Aug 2025 – Present &nbsp;|&nbsp; India</summary>
-
-<br/>
-
-> ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+**🏢 SODISYS (S J S Business Solutions) — Full Stack Developer** &nbsp;·&nbsp; Aug 2025 – Present &nbsp;·&nbsp; India
 
 - 🔧 Develop and maintain full-stack web applications using **React.js**, **Node.js**, and **Express.js** across production environments.
-- 🗄️ Design and optimize **RESTful APIs** and database schemas for both **MySQL** and **MongoDB**.
+- 🗄️ Design and optimize **RESTful APIs** and database schemas for **MySQL**, **MongoDB**, and **PostgreSQL**.
 - 🚀 Ship maintainable, production-ready features spanning frontend, backend, and data layers.
 - 🤝 Collaborate with cross-functional teams to deliver scalable software solutions on tight timelines.
 
-</details>
+**📱 SODISYS (S J S Business Solutions) — Web &amp; Mobile App Developer** &nbsp;·&nbsp; Dec 2023 – Aug 2025 &nbsp;·&nbsp; India
 
-<details>
-<summary>📱 <strong>SODISYS (S J S Business Solutions)</strong> — Web &amp; Mobile App Developer &nbsp;|&nbsp; Dec 2023 – Aug 2025 &nbsp;|&nbsp; India</summary>
-
-<br/>
-
-> ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) ![Android](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
-
-- 📲 Built **cross-platform mobile applications** using **React Native**, **TypeScript**, and **Android SDK**, targeting both iOS and Android.
+- 📲 Built **cross-platform mobile applications** using **React Native**, **TypeScript**, and **Android SDK** for both iOS and Android.
 - 🧩 Developed reusable **UI component libraries** and integrated complex **REST APIs** across multiple products.
 - ⚡ Implemented **real-time features** using **Socket.io** for live data communication and dynamic UI updates.
-- 🎯 Optimized app performance and rendering pipelines for a smooth, lag-free user experience across devices.
-
-</details>
+- 🎯 Optimized app performance and rendering pipelines for a smooth, lag-free experience across devices.
 
 ---
 
+<!-- ============================= FEATURED PROJECTS ============================= -->
 ## 🚀 Featured Projects
 
-<div align="center">
-
 | Project | Stack | Highlights |
-|:--------|:------|:-----------|
-| 🧾 [**Smart Bill System**](https://smartbill-system-2.onrender.com) | React · TypeScript · MySQL · Express.js | Full-stack invoice management system — create, track & manage invoices end-to-end with a clean, intuitive UI |
-| ✈️ [**Pop Up Tours Website**](https://popup-tours.vercel.app) | React.js · Tailwind CSS | Modern responsive travel website with smooth UX, pixel-perfect responsive layouts, and highly reusable components |
-
-</div>
+| :------ | :---- | :--------- |
+| 🎵 **Sonik — Music Streaming Platform**<br>[Web](https://github.com/Jeswin-shijo/sonik-web) · [Mobile](https://github.com/Jeswin-shijo/sonik-mobile-app) · [Backend](https://github.com/Jeswin-shijo/sonik-backend) | `React` · `React Native` · `Node.js` · `TypeScript` | Spotify-style streaming platform built end-to-end across **web, mobile & a dedicated backend** — cross-platform audio playback with a clean, responsive UI |
+| 🎓 **[Education Platform](https://github.com/Jeswin-shijo/education)** ⬅️ *update link* | `React` · `Node.js` · `MongoDB` | *Full-stack learning platform — replace this line with a one-line description of what it does* |
+| 🧾 **[Smart Bill System](https://smartbill-system-2.onrender.com)** | `React` · `TypeScript` · `MySQL` · `Express.js` | Full-stack invoice management — create, track & manage invoices end-to-end with a clean, intuitive UI |
+| ✈️ **[Pop Up Tours](https://popup-tours.vercel.app)** | `React.js` · `Tailwind CSS` | Modern, responsive travel website with smooth UX, pixel-perfect layouts & highly reusable components |
 
 ---
 
+<!-- ============================= ACHIEVEMENTS ============================= -->
 ## 🎯 Achievements
 
-<div align="center">
-
 | 🏅 | Achievement | Details |
-|:--:|:------------|:--------|
-| 💼 | **Full Stack Developer** | Promoted to Full Stack Developer role at SODISYS after demonstrating full-stack ownership across frontend, backend & mobile |
+| --- | ----------- | ------- |
+| 💼 | **Full Stack Developer** | Promoted to Full Stack Developer at SODISYS after demonstrating full-stack ownership across frontend, backend & mobile |
 | 📱 | **Cross-Platform Mobile Expert** | Shipped production React Native apps for both iOS & Android over 20+ months at SODISYS |
-| ⚡ | **Real-Time Systems** | Architected and shipped real-time Socket.io features powering live data communication in mobile applications |
-| 🎓 | **B.E. Computer Science** | Graduated with a degree in Computer Science Engineering from DMI Engineering College (2019–2023) |
-| 🌐 | **Production Deployments** | Projects live on Vercel & Render — actively serving users at [popup-tours.vercel.app](https://popup-tours.vercel.app) & [smartbill-system-2.onrender.com](https://smartbill-system-2.onrender.com) |
-
-</div>
+| ⚡ | **Real-Time Systems** | Architected and shipped real-time Socket.io features powering live data communication in mobile apps |
+| 🎓 | **B.E. Computer Science** | Graduated in Computer Science Engineering from DMI Engineering College (2019–2023) |
+| 🌐 | **Production Deployments** | Projects live on Vercel & Render — actively serving users |
 
 ---
 
-## 🎓 Education & Currently Learning
-
-<div align="center">
+<!-- ============================= EDUCATION ============================= -->
+## 🎓 Education &amp; Currently Learning
 
 | 🎓 Degree | 🏫 Institution | 📅 Year | 📍 Location |
-|:----------|:--------------|:--------|:-----------|
+| --------- | ------------- | ------- | ---------- |
 | B.E. Computer Science Engineering | DMI Engineering College | 2019 – 2023 | Kanyakumari District, Tamil Nadu |
-
-</div>
-
-<br/>
 
 ```
 🚀 Currently Exploring
 ─────────────────────────────────────────────────────────
-🏗️  System Design        →  Scalable Architecture · Load Balancing · Caching
-☁️  Cloud Platforms      →  AWS (EC2, S3, Lambda) · GCP · CI/CD Pipelines
-🔗  GraphQL              →  Schema Design · Apollo Server · Query Optimization
-🐳  Advanced DevOps      →  Docker Compose · Kubernetes Basics · Monitoring
-🔐  Auth & Security      →  JWT · OAuth 2.0 · Role-Based Access Control
+🏗️  System Design      →  Scalable Architecture · Load Balancing · Caching
+☁️  Cloud Platforms    →  AWS (EC2, S3, Lambda) · GCP · CI/CD Pipelines
+🔗  GraphQL            →  Schema Design · Apollo Server · Query Optimization
+🐳  Advanced DevOps    →  Docker Compose · Kubernetes Basics · Monitoring
+🔐  Auth & Security    →  JWT · OAuth 2.0 · Role-Based Access Control
 ```
 
 ---
 
+<!-- ============================= CONNECT ============================= -->
 <div align="center">
 
-**Let's connect and build something amazing together! 🚀**
+### Let's connect and build something amazing together! 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeswin%20Shijo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeswin-shijo-544a543a1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jeswin--shijo.vercel.app-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jeswin-shijo.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Jeswin--shijo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jeswin-shijo)
-[![Gmail](https://img.shields.io/badge/Gmail-jeswindonoo7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeswindonoo7@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-jeswindonoo7-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeswindonoo7@gmail.com)
 
 </div>
 
